@@ -6,8 +6,8 @@ Developed a fully functional library management website from scratch using HTML,
 
 
 ## Admin login
-![This is an image](https://github.com/aachaldhole/library_management_system/blob/main/libmain.png)
+![This is an image](https://github.com/aachaldhole/library_management_system/blob/main/lib2.png)
 
 
 ## Student login
-![This is an image](https://github.com/aachaldhole/library_management_system/blob/main/libmain.png)
+![This is an image](https://github.com/aachaldhole/library_management_system/blob/main/lib_s1.png)
